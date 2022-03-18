@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.dzxium.tk</id>
     <title>DzxiumBlogPage</title>
-    <updated>2022-03-18T08:21:44.780Z</updated>
+    <updated>2022-03-18T08:39:55.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.dzxium.tk"/>
     <link rel="self" href="https://blog.dzxium.tk/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://blog.dzxium.tk/images/avatar.png</logo>
     <icon>https://blog.dzxium.tk/favicon.ico</icon>
     <rights>All rights reserved 2022, DzxiumBlogPage</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello DzxiumBlogPage]]></title>
+        <id>https://blog.dzxium.tk/hello-dzxiumblogpage/</id>
+        <link href="https://blog.dzxium.tk/hello-dzxiumblogpage/">
+        </link>
+        <updated>2022-03-18T08:38:35.000Z</updated>
+        <content type="html"><![CDATA[<p>hello,my is Zpcin，ohhhhhhhhh！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.dzxium.tk/hello-gridea/</id>
