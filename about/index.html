@@ -62,28 +62,25 @@
                                 <div class="mdui-divider mdui-m-t-2"></div>
    
           
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-<div id="gitalk-container"></div>
+          
+            <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css">
+<script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+
+<div id="disqus_thread"></div>
 
 <script>
 
-  var gitalk = new Gitalk({
-    clientID: '1b4ca4ac2512f958dd08',
-    clientSecret: 'c2c2da1b4fea53e0080eca68bff56e8dcefe6bdb',
-    repo: 'Dzxium-gitalk',
-    owner: 'zhang2333-Myself',
-    admin: ['zhang2333-Myself'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
+var options = {
+  shortname: 'blog-dzxium-tk',
+  apikey: 'xqfPprIioYIx2zN8MnwFjANM2f1AwVP6KlsmvXkJDBHLEWb61A8nZXY92o8kuEfx',
+}
+if ('') {
+  options.api = ''
+}
+var dsqjs = new DisqusJS(options)
 
 </script>
-
-          
 
           
         
