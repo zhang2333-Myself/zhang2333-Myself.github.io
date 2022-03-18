@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhang2333-Myself.github.io</id>
+    <id>https://blog.dzxium.tk</id>
     <title>DzxiumBlogPage</title>
-    <updated>2022-03-18T08:19:14.568Z</updated>
+    <updated>2022-03-18T08:21:44.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhang2333-Myself.github.io"/>
-    <link rel="self" href="https://zhang2333-Myself.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.dzxium.tk"/>
+    <link rel="self" href="https://blog.dzxium.tk/atom.xml"/>
     <subtitle>挑战自我，不进则退</subtitle>
-    <logo>https://zhang2333-Myself.github.io/images/avatar.png</logo>
-    <icon>https://zhang2333-Myself.github.io/favicon.ico</icon>
+    <logo>https://blog.dzxium.tk/images/avatar.png</logo>
+    <icon>https://blog.dzxium.tk/favicon.ico</icon>
     <rights>All rights reserved 2022, DzxiumBlogPage</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zhang2333-Myself.github.io/hello-gridea/</id>
-        <link href="https://zhang2333-Myself.github.io/hello-gridea/">
+        <id>https://blog.dzxium.tk/hello-gridea/</id>
+        <link href="https://blog.dzxium.tk/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
